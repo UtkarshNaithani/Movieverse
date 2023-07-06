@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# MovieVerse
+  ## A Full Stack Application with Reactjs as the frontend and Firebase as the backend
+# Home Page
+![Screenshot 2023-07-06 135701](https://github.com/UtkarshNaithani/Movieverse/assets/96072036/35718159-d5f9-4e4e-81d4-b2970c91eb8e)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sign Up Page
+ ## User can create it's account with OTP Authentication feature
+ 
+  ![Screenshot 2023-07-06 135723](https://github.com/UtkarshNaithani/Movieverse/assets/96072036/286f266d-d3e5-4435-9b99-183da6a0adb9)
 
-## Available Scripts
+  # Login Page
+ ## User can login after creating it's account
 
-In the project directory, you can run:
+![Screenshot 2023-07-06 135811](https://github.com/UtkarshNaithani/Movieverse/assets/96072036/b69b125d-4e69-4c93-8cb9-2006c386af70)
 
-### `npm start`
+ # Add Movie Page
+ ## User can add any movie it likes
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-07-06 135847](https://github.com/UtkarshNaithani/Movieverse/assets/96072036/42de3255-1fc2-4e72-b417-5e6c10f710a9)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ # Description Page
+ ## User can see the description of any movie along with it's rating and reviews
+ ## User can also give it's reviews and ratings to any movie as it likes
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2023-07-06 135833](https://github.com/UtkarshNaithani/Movieverse/assets/96072036/4b932d73-1ba5-4ca6-b6fb-df63bca1f808)
